@@ -1,4 +1,4 @@
-# Space Trucker The Game
+# Space Trucker RPG
 Respecting the hustle in the Far Future
 
 ## Idea:
