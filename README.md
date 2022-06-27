@@ -1,4 +1,4 @@
-# space-economics
+# Space Trucker The Game
 Respecting the hustle in the Far Future
 
 ## Idea:
